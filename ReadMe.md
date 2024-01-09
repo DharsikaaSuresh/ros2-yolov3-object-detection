@@ -71,6 +71,6 @@ This repository contains a ros2 package for object detection using YOLOv3 and vi
 
 4. Play the ROS bag file using the following command.
     ```bash
-    ros2 bag play /path/to/your/bagfile.bag
+    ros2 bag play /path/to/your/bagfile
     ```
-    Replace `/path/to/your/bagfile.bag` with the actual path of ROS 2 bag file.
+    Replace `/path/to/your/bagfile` with the actual path of ROS 2 bag file.

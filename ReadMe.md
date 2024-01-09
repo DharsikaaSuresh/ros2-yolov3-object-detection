@@ -29,7 +29,7 @@ This repository contains a ros2 package for object detection using YOLOv3 and vi
 4. Clone the repository:
 
    ```bash
-   git clone
+   git clone https://github.com/DharsikaaSuresh/ros2-yolov3-object-detection.git
     ```
 
 5. Download weights using setup script:

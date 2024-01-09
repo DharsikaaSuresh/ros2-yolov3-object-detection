@@ -1,0 +1,6 @@
+bagfiles/
+log/
+.vscode/
+build/
+install/
+/src/object_detector/yolov3_data/yolov3.weights
